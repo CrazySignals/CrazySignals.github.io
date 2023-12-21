@@ -1,16 +1,8 @@
 ---
-layout: archive
-title: "Publications"
+
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**
+**Xinren Zhang**, Weijie Liu, Nuo Huang and Zhengyuan Xu<br>
+International Conference on Communication Software and Networks (ICCSN), July 2023. (Excellent Oral Presentation)            
