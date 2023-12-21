@@ -6,10 +6,10 @@ excerpt:
 date: 
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10297369'
-citation: 'Xinren Zhang, Weijie Liu, Nuo Huang, Zhengyuan Xu, International Conference on Communication Software and Networks (ICCSN).'
+citation: 'Xinren Zhang, Weijie Liu, Nuo Huang, Zhengyuan Xu, International Conference on Communication Software and Networks (ICCSN), 2023.'
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10297369)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Xinren Zhang, Weijie Liu, Nuo Huang, Zhengyuan Xu, International Conference on Communication Software and Networks (ICCSN), 2023.
