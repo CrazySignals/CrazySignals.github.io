@@ -17,8 +17,8 @@ redirect_from:
 These are my favorite books. <br>
 <img src='/images/BOOK.png'>
 
-Travel gives me power and happiness
-<img src='/images/Tibet.jpg'><img src='/images/Motor.jpg'>
+Travel gives me power and happiness.
+<img src='/images/Traveling.png'>
   * _publications/
   * _portfolio/
   * _posts/
