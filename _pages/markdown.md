@@ -13,12 +13,10 @@ redirect_from:
 * I started painting at the age of five, I love sketch and oil painting, which provide me with a means to escape from work.
 * For exercise, I love running, pingpong, hiking...
 * In my spare time, I enjoy writing, reading and traveling with families.<br>
-
 These are my favorite books. 
 This series of books never fails to bring me a sense of calm, and the emotional depth portrayed by the female characters never fails to resonate with me. I consider myself fortunate to have such an brilliant girlfriend in my life—she serves as both a spiritual guide and a wellspring of motivation as I navigate my journey forward.<br>
 <br>
 <img src='/images/BOOK.png'>
-
 **"The world is a book and those who do not travel read only one page. －Saint Augustine"**<br>
 <br>
 <img src='/images/Traveling.png'>
