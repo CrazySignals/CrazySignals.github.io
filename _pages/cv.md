@@ -33,7 +33,7 @@ Research Experience
 
 Projects
 ======
-*  Jul. 2022 – Sep.2023: Deep-sea Communication, Navigation and Positioning Technology.
+* Jul. 2022 – Sep.2023: Deep-sea Communication, Navigation and Positioning Technology.
   * Tested the device bandwidth & offline system.
   * Built the system under the swimming pool environment to achieve 100 m/100 M data transmission.
 * May. 2018 – May.2019: Research of Heart Shock Artifact Suppression Method in Synchronous EEG‑fMRI 
