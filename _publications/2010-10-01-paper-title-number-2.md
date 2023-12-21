@@ -6,7 +6,7 @@ excerpt:
 date: 
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10297369'
-citation: '**Xinren Zhang**, Weijie Liu, Nuo Huang, Zhengyuan Xu, International Conference on Communication Software and Networks (ICCSN).'
+citation: 'Xinren Zhang, Weijie Liu, Nuo Huang, Zhengyuan Xu, International Conference on Communication Software and Networks (ICCSN).'
 ---
 
 
