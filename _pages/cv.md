@@ -64,6 +64,6 @@ Honors & Awards
 Publications
 ======
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**
-<font color=#DC143C> Xinren Zhang </font>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023.<br>
+**Xinren Zhang**, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023.<br>
 **Suppression of Backscattering Interference Using Orthogonal Waveforms for Underwater Optical Wireless Communication**
 **X. Zhang**, W. Liu, N. Huang and Z. Xu, “,” submitted to IEEE Photon. J. (Under review)
