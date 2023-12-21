@@ -13,7 +13,7 @@ redirect_from:
 * I started painting at the age of five, I love sketch and oil painting, which provide me with a means to escape from work.
 * For exercise, I love running, pingpong, hiking...
 * In my spare time, I enjoy writing, reading and traveling with families.<br>
-<img src='/images/500x300.png'>
+<img src='/images/brilliant1.jpg'>
   * _publications/
   * _portfolio/
   * _posts/
