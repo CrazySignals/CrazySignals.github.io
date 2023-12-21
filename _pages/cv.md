@@ -49,13 +49,17 @@ Skills
 
 Honors & Awards
 ======
-* Nov.2023: Top 5, China Computer Federation (CCF) Computational Economics Competition   
-* 2021-2022: Two times, First Prize, University of Science and Technology of China Postgraduate Academic Scholarship
-* Oct. 2019: Chongqing University Scholarship for Exchange Study Abroad
-* 2017-2021: Six Times, Chongqing University Comprehensive Scholarship
-* Oct. 2020: Second Prize, National English Competition for College Students
-* Nov. 2019: First Prize, “Higher Education Cup” National Mathematical Model Competition
-* Nov. 2018: First Prize, the Tenth Mathematical Competition for National College Students     
+* China Computer Federation (CCF) Computational Economics Competition, Top 5, 2023
+* Excellent Oral Presentation on 2023 the 15th International Conference on Communication Software and Networks, China, 2023
+* Outstanding Student Scholarship, First Prize, USTC, 2021 - 2022
+* Outstanding Graduates Awards, CQU, 2021
+* Chongqing University Comprehensive Scholarship, CQU, 2017-2021
+* National English Competition for College Students, Second Prize, China, 2020
+* Chongqing University Scholarship for Exchange Study Abroad, CQU, 2019
+* Outstanding Volunteer of the International Companions for Learning (ICL) program, NTU, 2019
+* “Higher Education Cup” National Mathematical Model Competition, First Prize, Chongqing, 2019
+* Merit Students Awards, CQU, 2018 
+* Mathematical Competition for National College Students, First Prize, Chongqing, 2018  
  
 
 Publications
