@@ -60,5 +60,12 @@ Honors & Awards
 * Outstanding Volunteer of the International Companions for Learning (ICL) program, NTU, 2019
 * “Higher Education Cup” National Mathematical Model Competition, First Prize, Chongqing, 2019
 * Merit Students Awards, CQU, 2018 
-* Mathematical Competition for National College Students, First Prize, Chongqing, 2018  
+* Mathematical Competition for National College Students, First Prize, Chongqing, 2018
+  
+Publications
+======
+**Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**
+**Xinren Zhang**, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023.<br>
+**Suppression of Backscattering Interference Using Orthogonal Waveforms for Underwater Optical Wireless Communication**
+**Xinren Zhang**, Weijie Liu, Nuo Huang and Zhengyuan Xu, submitted to IEEE Photonics Journal (Under Review)
  
