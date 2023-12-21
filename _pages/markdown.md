@@ -17,6 +17,6 @@ redirect_from:
 These are my favorite books. <br>
 <img src='/images/BOOK.png'>
 
-Travel gives me power and happiness.
+**"The world is a book and those who do not travel read only one page. －Saint Augustine"**
 <img src='/images/Traveling.png'>
 
