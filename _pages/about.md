@@ -12,9 +12,9 @@ I am a third-year master student in [Optical Wireless Communication & Network Ce
 
 Education
 ======
-* B.E. in Chongqing University (CQU), top 2%, Sep. 2017- Jun. 2021
-* M.E. in University of Science and Technology of China (USTC), top 15%, Sep. 2021–Jun. 2024 (Expected)
-* Exchange student in National Taiwan University (NTU), Feb. 2019 – June. 2019
+* B.E. in Chongqing University ([CQU](https://en.wikipedia.org/wiki/Chongqing_University)), top 2%, Sep. 2017- Jun. 2021
+* M.E. in University of Science and Technology of China ([USTC](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China)), top 15%, Sep. 2021–Jun. 2024 (Expected)
+* Exchange student in National Taiwan University ([NTU](https://en.wikipedia.org/wiki/National_Taiwan_University)), Feb. 2019 – June. 2019
 
 Research Experience
 ======
