@@ -20,7 +20,7 @@ Research Experience
 ======
 * Jan. 2023 – Present: Asynchronous superposition to suppress backscattering signal under the Poisson channel  
   * Evaluated the BER performance of the opposite signal at the receiving end using the HMM model combined with the Viterbi decoding algorithm by simulation.
-  * In order to further improve the communication performance of full-duplex links, a method of state transfer is proposed when the backscatter signal is known.
+  * Proposed a method of state transfer to further improve the communication performance of full-duplex links when the backscattering signal is known.
 
 
 * Oct. 2022 – Oct. 2023: Orthogonal waveform design to suppress backscattering signal under the Gaussian channel 
