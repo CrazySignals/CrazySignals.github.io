@@ -14,7 +14,7 @@ redirect_from:
 * For exercise, I love running, ping-pong, hiking...
 * In my spare time, I enjoy writing, reading and traveling with families.<br>
 <br>
-This series of books below never fails to bring me a sense of calm, and the emotional depth portrayed by the female characters resonate with me deeply. I consider myself fortunate to have such an brilliant girlfriend in my life—she serves as both a spiritual guide and a wellspring of motivation as I navigate my journey forward.<br>
+This series of books below never fails to bring me a sense of calm, and the emotional depth portrayed by the female characters resonate with me deeply. I consider myself fortunate to have such a brilliant girlfriend in my life—she serves as both a spiritual guide and a wellspring of motivation as I navigate my journey forward.<br>
 <br>
 <img src='/images/BOOK.png'><br>
 <br>                                                                                                                  **"The world is a book and those who do not travel read only one page. －Saint Augustine"**<br>
