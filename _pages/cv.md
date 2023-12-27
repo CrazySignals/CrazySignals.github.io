@@ -43,7 +43,7 @@ Skills
 ======
 * Programming: MATLAB, C/C++, Python.
 * Language Proficiency 
-  * English (IELTS 6.5 (6) points, GRE 325 (V:155; Q: 170; AW:3.5)).
+  * English (IELTS, GRE).
   * Chinese.
 
 Honors & Awards
