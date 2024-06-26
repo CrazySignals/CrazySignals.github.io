@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master student in [Optical Wireless Communication & Network Centor](https://owc.ustc.edu.cn/main.htm), working with Prof. [Zhengyuan Xu](https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm). My research interests lie in statistical signal processing, channel estimation and modeling and machine learning.
+I am going to join the Information Hub Internet of Things Thrust at The [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a Research Assistant
+under the supervision of Prof. [Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu). My research interests lie in machine learning, digital twin technologie, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the University of Science and Technology of China, where my advisor was Prof. [Zhengyuan Xu](https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
 Education
 ======
 * B.E. in Chongqing University ([CQU](https://en.wikipedia.org/wiki/Chongqing_University)), top 2%, Sep. 2017- Jun. 2021
-* M.E. in University of Science and Technology of China ([USTC](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China)), top 15%, Sep. 2021–Jun. 2024 (Expected)
+* M.E. in University of Science and Technology of China ([USTC](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China)), top 15%, Sep. 2021–Jun. 2024
 * Exchange student in National Taiwan University ([NTU](https://en.wikipedia.org/wiki/National_Taiwan_University)), Feb. 2019 – June. 2019
 
 Research Experience
