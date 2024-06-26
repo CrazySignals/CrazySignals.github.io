@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am going to join the Information Hub Internet of Things Thrust at The [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) as a Research Assistant
-under the supervision of Prof. [Jiadong Yu](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu). My research interests lie in machine learning, digital twin technologie, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the [University of Science and Technology of China](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China), where my advisor was Prof. [Zhengyuan Xu](https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
+I am going to join the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> as a Research Assistant
+under the supervision of Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" style="color:#9B0145;">Jiadong Yu</a>. My research interests lie in machine learning, digital twin technologie, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
 
 Education
 ======
-* B.E. in Chongqing University ([CQU](https://en.wikipedia.org/wiki/Chongqing_University)), top 2%, Sep. 2017- Jun. 2021
-* M.E. in University of Science and Technology of China ([USTC](https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China)), top 15%, Sep. 2021–Jun. 2024
-* Exchange student in National Taiwan University ([NTU](https://en.wikipedia.org/wiki/National_Taiwan_University)), Feb. 2019 – June. 2019
+* B.E. in Chongqing University (<a href="https://en.wikipedia.org/wiki/Chongqing_University" style="color:#9B0145;">CQU</a>), top 2%, Sep. 2017- Jun. 2021
+* M.E. in University of Science and Technology of China (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">USTC</a>), top 15%, Sep. 2021–Jun. 2024
+* Exchange student in National Taiwan University (<a href="https://en.wikipedia.org/wiki/National_Taiwan_University" style="color:#9B0145;">NTU</a>), Feb. 2019 – June. 2019
 
 Research Experience
 ======
@@ -68,7 +68,7 @@ Publications
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
 **Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [[<font color='#D0005F'>Paper</font>]](https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search) <br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
 
 Patent
 ======
