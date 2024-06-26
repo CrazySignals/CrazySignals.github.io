@@ -44,6 +44,7 @@ Projects
 Skills
 ======
 * Programming: MATLAB, C/C++, Python.
+* Familiar with deep learning frameworks & models, model tuning and parameter tuning capabilities.
 * Language Proficiency 
   * English (IELTS 6.5 (6) points, GRE 325 (V:155; Q: 170; AW:3.5)).
   * Chinese.
