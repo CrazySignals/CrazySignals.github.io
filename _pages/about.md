@@ -19,7 +19,7 @@ Education
 
 Research Experience
 ======
-* Jan. 2023 – Present: Asynchronous superposition to suppress backscattering signal under the Poisson channel  
+* Jan. 2023 – Mar. 2024: Asynchronous superposition to suppress backscattering signal under the Poisson channel  
   * Evaluated the BER performance of the opposite signal at the receiving end using the HMM model combined with the Viterbi decoding algorithm by simulation.
   * Proposed a method of state transfer to further improve the communication performance of full-duplex links when the backscattering signal is known.
 
@@ -35,9 +35,8 @@ Research Experience
 
 Projects
 ======
-* Jul. 2022 – Sep.2023: Deep-sea Communication, Navigation and Positioning Technology.
-  * Tested the device bandwidth & offline system.
-  * Built the system under the swimming pool environment to achieve 100 m/100 M data transmission.
+* Aug. 2023 – Nov. 2023: Smart Taxing - Personal Decision Optimisation
+  * Applied MADDPG to solve problems in a multi-agent environment, successfully addressing taxing issues through a balanced approach to work and consumption, optimizing rewards based on assets and productivity. 
 * May. 2018 – May.2019: Research of Heart Shock Artifact Suppression Method in Synchronous EEG‑fMRI 
   * Used the basic principles of multi-task learning to suppress cardiac impact artifacts. 
   * Designed the removing cardiac impact artifacts system software.
@@ -67,6 +66,11 @@ Publications
 ======
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**<br>
 <ins>Xinren Zhang</ins>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10297369)]<br>
-**Orthogonal waveform-based backscattering interference suppression technique for underwater optical wireless communication**<br>
+**Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
 <ins>Xinren Zhang</ins>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [[Paper](https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search)]<br>
+
+Patent
+======
+**An Asynchronous Superposition Based Backscattering Suppression Method for Underwater Optical Wireless  Communication**<br>
+Weijie Liu, <ins>Xinren Zhang</ins>, Nuo Huang, Chen Gong, Shangbin Li and Zhengyuan Xu, Invention patent, CN, authorized, 202410763676.X.
  
