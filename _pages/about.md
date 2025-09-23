@@ -71,6 +71,7 @@ Publications
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu, In Proc. IEEE International Conference on Communications Workshops, ICC, Montreal, QC, Canada, June 08- June 12, 2025. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
+
 Patent
 ======
 **An Asynchronous Superposition Based Backscattering Suppression Method for Underwater Optical Wireless  Communication**<br>
