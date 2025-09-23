@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am going to join the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> as a Research Assistant
-under the supervision of Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" style="color:#9B0145;">Jiadong Yu</a>. My research interests lie in machine learning, digital twin technologie, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
+I am going to join the Information Hub Internet of Things Thrust at The <a href="https://www.hkust-gz.edu.cn/" style="color:#9B0145;">Hong Kong University of Science and Technology (Guangzhou)</a> as a PhD student
+under the supervision of Prof. <a href="https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YU-Jiadong/jiadongyu" style="color:#9B0145;">Jiadong Yu</a>. My research interests lie in multi-agent reinforcement learning, statistical signal processing. I obtained my master's degree in Information and Communication Engineering in Jun. 2024 at the <a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">University of Science and Technology of China</a>, where my advisor was Prof. <a href="https://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm" style="color:#9B0145;">Zhengyuan Xu</a>.
 
 Education
 ======
@@ -69,7 +69,6 @@ Publications
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
 **Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
-
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu, In Proc. IEEE International Conference on Communications Workshops, ICC, Montreal, QC, Canada, June 08- June 12, 2025. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
 Patent
