@@ -43,7 +43,7 @@ Projects
     
 Skills
 ======
-* Programming: MATLAB, C/C++, Python.
+* Programming: Python, MATLAB, C/C++.
 * Familiar with deep learning frameworks & models, model tuning and parameter tuning capabilities.
 * Language Proficiency 
   * English (IELTS 6.5 (6) points, GRE 325 (V:155; Q: 170; AW:3.5)).
@@ -66,11 +66,13 @@ Honors & Awards
 Publications
 ======
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, July 21-July 23, 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, 2023, pp. 326-330. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
 **Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024, pp. 1372-1380. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu, In Proc. 2025 IEEE International Conference on Communications Workshops (ICC Workshops), Montreal, QC, Canada, 2025, pp. 250-255. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
+**Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**<br>
+<span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. [<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">Paper</a>]<br>
 
 Patent
 ======
