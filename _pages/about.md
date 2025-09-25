@@ -72,7 +72,8 @@ Publications
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu, In Proc. 2025 IEEE International Conference on Communications Workshops (ICC Workshops), Montreal, QC, Canada, 2025, pp. 250-255. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
 **Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**<br>
-<span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. [<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. <br>
+Preprint[<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">Paper</a>]<br>
 
 Patent
 ======
