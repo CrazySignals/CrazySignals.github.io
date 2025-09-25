@@ -66,7 +66,8 @@ Honors & Awards
 Publications
 ======
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu,  In Proc. 2023 15th International Conference on Communication Software and Networks (ICCSN), Shenyang, China, 2023, pp. 326-330. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu<br>
+\textit{ICCSN}, Jul. 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
 **Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024, pp. 1372-1380. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
