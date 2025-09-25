@@ -60,7 +60,7 @@ Publications
 <i>IEEE International Conference on Communications Workshops (ICC Workshops)</i>, Jun. 2025. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
 **Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. <br>
-<i>Preprint</i>[<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">arXiv</a>]<br>
+<i>Preprint.</i> [<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">arXiv</a>]<br>
 
 Patent
 ======
