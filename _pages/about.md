@@ -17,22 +17,6 @@ Education
 * M.E. in University of Science and Technology of China (<a href="https://en.wikipedia.org/wiki/University_of_Science_and_Technology_of_China" style="color:#9B0145;">USTC</a>), top 15%, Sep. 2021–Jun. 2024
 * Exchange student in National Taiwan University (<a href="https://en.wikipedia.org/wiki/National_Taiwan_University" style="color:#9B0145;">NTU</a>), Feb. 2019 – June. 2019
 
-Research Experience
-======
-* Jan. 2023 – Mar. 2024: Asynchronous superposition to suppress backscattering signal under the Poisson channel  
-  * Evaluated the BER performance of the opposite signal at the receiving end using the HMM model combined with the Viterbi decoding algorithm by simulation.
-  * Proposed a method of state transfer to further improve the communication performance of full-duplex links when the backscattering signal is known.
-
-
-* Oct. 2022 – Oct. 2023: Orthogonal waveform design to suppress backscattering signal under the Gaussian channel 
-  * Introduced  the orthogonal waveforms with the Hermite-Gaussian (HG) and prolate spheroidal wave function (PSWF) for a pulse position modulation based UOWC system to alleviate the backscattering effects incorporating with joint maximum likelihood detection scheme.
-  * Verified the feasibility of the proposed method through experiments and discussed the corresponding communication performances under different conditions.     
-
-* Oct. 2021 – Jan.2023: Modeling of backscattering channel for underwater optical wireless communications        
-  * Proposed the photon receiving logic of Monte Carlo algorithm considering the structure of the photomultiplier tube.
-  * Discussed the application scenarios for backscatter interference that need to be considered.
-  * Applied the single scattering approximation to model the backscattering channel. 
-
 Projects
 ======
 * Aug. 2023 – Nov. 2023: Smart Taxing - Personal Decision Optimisation
@@ -67,14 +51,16 @@ Publications
 ======
 **Backscattering Interference Channel Characteristics in Full-Duplex Underwater Optical Wireless Communication**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu<br>
-\textit{ICCSN}, Jul. 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
+<i>ICCSN</i>, Jul. 2023. [<a href="https://ieeexplore.ieee.org/abstract/document/10297369" style="color:#9B0145;">Paper</a>]<br>
 **Orthogonal Waveform-Based Backscattering Interference Suppression Technique for Underwater Optical Wireless Communication**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu, Journal of the Optical Society of America A, Jun. 2024, pp. 1372-1380. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Weijie Liu, Nuo Huang and Zhengyuan Xu<br>
+<i>Journal of the Optical Society of America A</i>, Jun. 2024. [<a href="https://opg.optica.org/josaa/viewmedia.cfm?URI=josaa-41-7-1372&seq=0&html=true&origin=search" style="color:#9B0145;">Paper</a>]<br>
 **Rethinking the Reward Design for DRL in Mobile Communication Systems with Generative Diffusion Models**<br>
-<span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu, In Proc. 2025 IEEE International Conference on Communications Workshops (ICC Workshops), Montreal, QC, Canada, 2025, pp. 250-255. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
+<span style="color: #D0005F;">Xinren Zhang</span>, Chen Shang and Jiadong Yu<br>
+<i>IEEE International Conference on Communications Workshops (ICC Workshops)</i>, Jun. 2025. [<a href="https://ieeexplore.ieee.org/document/11162180" style="color:#9B0145;">Paper</a>]<br>
 **Improve the Training Efficiency of DRL for Wireless Communication Resource Allocation: The Role of Generative Diffusion Models**<br>
 <span style="color: #D0005F;">Xinren Zhang</span> and Jiadong Yu. <br>
-Preprint[<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">Paper</a>]<br>
+<i>Preprint</i>[<a href="https://arxiv.org/pdf/2502.07211" style="color:#9B0145;">arXiv</a>]<br>
 
 Patent
 ======
