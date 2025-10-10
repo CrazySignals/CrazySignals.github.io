@@ -64,6 +64,7 @@ Publications
 **Network Topology and Information Efficiency of Multi-Agent Systems: Study based on MARL**<br>
 <span style="color: #D0005F;">Xinren Zhang</span>, Sixi Cheng, Zixin Zhong and Jiadong Yu. <br>
 <i>Preprint.</i> [<a href="http://arxiv.org/abs/2510.07888" style="color:#9B0145;">arXiv</a>]<br>
+
 Patent
 ======
 **An Asynchronous Superposition Based Backscattering Suppression Method for Underwater Optical Wireless  Communication**<br>
